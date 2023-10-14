@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import WordCounter from './WordCounter';
 import './App.css';
 
